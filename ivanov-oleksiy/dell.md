@@ -1,1 +1,1 @@
-dell cost 1000
+dell cost 2000
