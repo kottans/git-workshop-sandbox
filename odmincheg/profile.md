@@ -1,2 +1,3 @@
-LoL pretending that I know something on ws-03
-
+name: Vlad Vorobyov
+position: front end developer
+hobby: training dog
