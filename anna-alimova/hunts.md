@@ -1,1 +1,1 @@
-kottan hunts ans catches mouse
+kottan hunts and catches mouse and bird
