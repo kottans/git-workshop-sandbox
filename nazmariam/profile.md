@@ -4,3 +4,5 @@
 First step
 
 Third step
+
+<strong>smth else</strong>
